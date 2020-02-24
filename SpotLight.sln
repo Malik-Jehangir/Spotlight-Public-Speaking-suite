@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotLight", "SpotLight.csproj", "{255DC91C-6B6F-3FE8-0B6B-EC31B05EB170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotLight.Editor", "SpotLight.Editor.csproj", "{51123A4D-C8DC-9660-610C-D3F5028FA9B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255DC91C-6B6F-3FE8-0B6B-EC31B05EB170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255DC91C-6B6F-3FE8-0B6B-EC31B05EB170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255DC91C-6B6F-3FE8-0B6B-EC31B05EB170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255DC91C-6B6F-3FE8-0B6B-EC31B05EB170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51123A4D-C8DC-9660-610C-D3F5028FA9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51123A4D-C8DC-9660-610C-D3F5028FA9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51123A4D-C8DC-9660-610C-D3F5028FA9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51123A4D-C8DC-9660-610C-D3F5028FA9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
